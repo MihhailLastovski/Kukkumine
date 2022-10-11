@@ -1,0 +1,6 @@
+div[am-class~="content"]:hover
+{
+    transition-delay: 0.2s;
+    transition-duration: 0.5s;
+    background-color: rgba(255, 255, 255, 0.05);
+}
